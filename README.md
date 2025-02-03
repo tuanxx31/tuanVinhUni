@@ -1,19 +1,9 @@
-### Hi there 👋
+## 📈 GitHub Stats
 
-<!--
-**Kholid060/kholid060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://giaang-github-readme-stats.vercel.app/api?username=lehuygiang28&show_icons=true&theme=tokyonight&hide_border=true&show=reviews" alt="lehuygiang28's Github Stats"/>
+<img src="https://giaang-github-readme-streak-stats.vercel.app?user=lehuygiang28&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="lehuygiang28's Github Streak" />
+<img src="https://giaang-github-readme-stats.vercel.app/api/top-langs/?username=lehuygiang28&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" alt="lehuygiang28's Github Top Language Stats"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanVinhUni&show_icons=true) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanVinhUni&layout=compact&show_icons=true&langs_count=10)
+---
